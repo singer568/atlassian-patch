@@ -1,0 +1,19 @@
+licenseVersion=2
+LicenseTypeName=COMMERCIAL
+CreationDate=2017-11-10
+PurchaseDate=2017-11-10
+MaintenanceExpiryDate=2057-12-10
+LicenseExpiryDate=2057-12-10
+ServerID=BVEQ-X7N1-DOEH-OMLP
+Description=Confluence (Server): Standard
+Evaluation=false
+active=true
+Organisation=mitlab@tydic.com
+ContactEMail=mitlab@tydic.com
+ContactName=mitlab@tydic.com
+PartnerName=mitlab@tydic.com
+NumberOfUsers=1000
+SEN=SEN-L10641051
+GracePeriod=10000000
+
+license_fixQ=X02f3
