@@ -26,3 +26,4 @@ bamboo.active=true
 bamboo.NumberOfBambooRemoteAgents=-1
 bamboo.NumberOfBambooPlans=-1
 bamboo.LicenseTypeName=COMMERCIAL
+
