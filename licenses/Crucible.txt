@@ -24,3 +24,4 @@ crucible.LicenseTypeName=COMMERCIAL
 crucible.Starter=false
 crucible.NumberOfUsers=-1
 crucible.active=true
+
